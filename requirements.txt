@@ -1,8 +1,9 @@
 numpy
 tensorflow
-json
-cv2
-PIL
-io
+jsons
+opencv-python
+pillow
+Python-IO
 gdown
-os
+os-sys
+requests
