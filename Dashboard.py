@@ -10,7 +10,7 @@ import io
 st.title("Deteksi Minuman")
 
 # Load model
-model = load_model('model_v1_coba_ilham.h5')
+model = load_model('model.h5')
 
 # Load labels from JSON
 with open('class_indices.json', 'r') as f:
