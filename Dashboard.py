@@ -11,7 +11,7 @@ st.title("Deteksi Minuman")
 
 # Load model
 model = load_model('model.h5')
-df_grading = pd.read_csv('Data Minuman - Data Minuman.csv')
+df_grading = pd.read_csv('Data Minuman.csv')
 
 # Load labels from JSON
 with open('class_indices.json', 'r') as f:
