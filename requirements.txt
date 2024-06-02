@@ -1,9 +1,0 @@
-numpy
-tensorflow
-jsons
-opencv-python
-pillow
-Python-IO
-gdown
-os-sys
-requests
